@@ -13,3 +13,17 @@ console.log(
     " and population: " +
     population
 ); */
+
+/* 1 - This is the first Challenge
+Coding Challenge #1 */
+
+/*
+const massMark = 78;
+const massJohn = 92;
+const heightMark = 1.69;
+const heightJohn = 1.95;
+let markHigherBMI;
+const bmi = mass / height ** 2;
+const 
+
+*/
