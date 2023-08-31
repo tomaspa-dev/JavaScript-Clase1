@@ -366,14 +366,6 @@ console.log(drink2);
 
 console.log(`I like to drink ${age >= 18 ? "wine 🍷" : " water 🥛"}`);
 
-
-const bill = 275; //275, 40 and 430
-const tip = bill >= 50 && bill <= 300 ? 0.15 * bill : 0.2 * bill;
-
-console.log(
-  `The bill was ${bill}, the tip was ${tip}, and the total value ${bill + tip}`
-);
-
 const bills = [275, 40, 430];
 
 bills.forEach(function (el, i) {
@@ -383,5 +375,12 @@ bills.forEach(function (el, i) {
     `The bill was ${bills[i]}, the  tip was ${tip} and the total value is ${billWithTip}`
   );
 });
+
+const bill = 275; //275, 40 and 430
+const tip = bill >= 50 && bill <= 300 ? 0.15 * bill : 0.2 * bill;
+
+console.log(
+  `The bill was ${bill}, the tip was ${tip}, and the total value ${bill + tip}`
+);
 
 */
