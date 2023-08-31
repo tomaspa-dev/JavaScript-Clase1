@@ -17,7 +17,7 @@ console.log(
 /* 1 - This is the first Challenge
 Coding Challenge #1 */
 
-let massMark = 95;
+/* let massMark = 95;
 let heightMark = 1.88;
 let massJohn = 85;
 let heightJohn = 1.76;
@@ -28,3 +28,4 @@ let BMIJohn = massJohn / heightJohn ** 2;
 let markHigherBMI = BMIMark > BMIJohn;
 
 console.log(BMIMark, BMIJohn, markHigherBMI);
+ */
